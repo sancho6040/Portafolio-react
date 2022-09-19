@@ -1,5 +1,6 @@
 # Portafolio-react
 Portafiolio developer - Sergio Andrés Sánchez
-Gecho con: React
+
+Hecho con: React
 
 Work in progress...

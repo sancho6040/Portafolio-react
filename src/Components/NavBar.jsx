@@ -4,7 +4,7 @@ import Logo from '../assets/Logo-White.png'
 
 export const NavBar = () => {
     return (
-        <div className='bg-shade py-5 text-White flex justify-around shadow-xl'>
+        <div className='bg-shade py-5 text-White flex justify-around shadow-xl fixed w-[100vw] z-50'>
             {/* cambiar a por link "react router dom" */}
             <a className='text-lg'>¿Quién soy?</a>
             <a className='text-lg'>Estudios</a>

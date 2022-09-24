@@ -9,7 +9,7 @@ export const NavBar = () => {
             <a className='text-lg'>¿Quién soy?</a>
             <a className='text-lg'>Estudios</a>
             <div>
-                <img className='h-24 inline-block absolute -translate-x-1/2 -translate-y-1/2 top-10' src={Logo} alt="Logo" />
+                <img className='h-24 inline-block absolute left-[49%] -translate-x-1/2 -translate-y-1/2 top-10' src={Logo} alt="Logo" />
             </div>
             <a className='text-lg'>Portafolio</a>
             <a className='text-lg'>Contacto</a>

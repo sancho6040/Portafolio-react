@@ -3,4 +3,6 @@ Portafiolio developer - Sergio Andrés Sánchez
 
 Hecho con: React
 
-Work in progress...
+sergiosanchez-react.netlify.app
+
+

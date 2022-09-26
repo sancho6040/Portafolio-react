@@ -5,7 +5,7 @@ import Html5 from '../assets/descarga.png'
 
 export const EstudiosPage = () => {
   return (
-    <section className='h-[100vH] bg-pacific-blue-300 p-20'>
+    <section id='EstudiosPage' className='h-[100vH] bg-pacific-blue-300 p-20'>
       <h1 className='text-center mb-8 text-shade text-4xl font-bold'>Estudios</h1>
       <div className='flex justify-around h-1/2'>
         <img className='rounded-full' src={UE} alt="Unreal" />

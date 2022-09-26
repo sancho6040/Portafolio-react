@@ -5,6 +5,7 @@ import { PerfilPage } from './Pages/PerfilPage'
 import {EstudiosPage} from './Pages/EstudiosPage'
 import {PortafolioPage} from './Pages/PortafolioPage'
 import { ContactoPage } from './Pages/ContactoPage'
+import { ExperiencePage } from './Pages/ExperiencePage'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <HeroPage></HeroPage>
       <PerfilPage></PerfilPage>
       <EstudiosPage></EstudiosPage>
+      <ExperiencePage></ExperiencePage>
       <PortafolioPage></PortafolioPage>
       <ContactoPage></ContactoPage>
     </>
